@@ -10,9 +10,8 @@ Built for **Track 1: RAG** of the Immersive Learning challenge.
 
 | Resource | Link |
 |---|---|
-| GitHub repository | `<GITHUB_REPO_URL>` |
-| Live demo (chat frontend) | `<DEMO_LINK>` |
-| SRS document | `<SRS_LINK>` |
+| Live demo (chat frontend) |[ `<DEMO_LINK>`](https://huggingface.co/spaces/codersahil/dsa-rag-mit/tree/main) |
+| SRS document |[ `<SRS_LINK>`](https://drive.google.com/file/d/1fh1kMBrzNn33gFx9UV7lpR29hEoDfSFS/view?usp=sharing) |
 
 ## What it does
 
@@ -219,16 +218,16 @@ Fill in the *Result* column after running each question against the live demo.
 
 | # | Message | Expected behaviour | Result |
 |---|---|---|---|
-| 1 | `hello` | Friendly greeting, no sources | `<pass/fail>` |
-| 2 | `My name is Sahil` | Friendly reply, no search, no sources | `<pass/fail>` |
-| 3 | `What is my name?` | Answers from the conversation | `<pass/fail>` |
-| 4 | `What is memoization?` | Grounded answer with citations | `<pass/fail>` |
-| 5 | `What is the difference between top-down and bottom-up DP?` | Grounded answer with citations | `<pass/fail>` |
-| 6 | `Explain that again with an example` | Uses the previous topic, grounded answer | `<pass/fail>` |
-| 7 | A question about a table or figure in the notes | Answer cites an AI-generated description | `<pass/fail>` |
-| 8 | `What is the capital of France?` | Polite decline | `<pass/fail>` |
-| 9 | `Tell me a joke` | Polite decline | `<pass/fail>` |
-| 10 | A course-related question the material doesn't cover | Refuses to answer | `<pass/fail>` |
+| 1 | `hello` | Friendly greeting, no sources | `pass` |
+| 2 | `My name is Sahil` | Friendly reply, no search, no sources |`pass` |
+| 3 | `What is my name?` | Answers from the conversation | `pass`|
+| 4 | `What is memoization?` | Grounded answer with citations |`pass`|
+| 5 | `What is the difference between top-down and bottom-up DP?` | Grounded answer with citations | `pass`|
+| 6 | `Explain that again with an example` | Uses the previous topic, grounded answer |`pass` |
+| 7 | A question about a table or figure in the notes | Answer cites an AI-generated description |`pass` |
+| 8 | `What is the capital of France?` | Polite decline | `pass` |
+| 9 | `Tell me a joke` | Polite decline | `pass` |
+| 10 | A course-related question the material doesn't cover | Refuses to answer | `pass` |
 
 ## Known limitations
 
@@ -244,4 +243,4 @@ Fill in the *Result* column after running each question against the live demo.
 - Course material: MIT OpenCourseWare, *6.046J Design and Analysis of Algorithms*, Spring 2015, Erik Demaine and Srinivas Devadas. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). [Course page](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/).
 - Lecture video: MIT OpenCourseWare on YouTube.
 - Code licence: `<CHOOSE_A_LICENSE>`.
-- Author: `<YOUR_FULL_NAME>`, `<INSTITUTION>`.
+- Author: `Sahil Goyal`, `TIET'28`.
