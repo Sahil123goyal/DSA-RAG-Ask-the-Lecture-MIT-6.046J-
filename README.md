@@ -12,9 +12,6 @@ Built for **Track 1: RAG** of the Immersive Learning challenge.
 |---|---|
 | GitHub repository | `<GITHUB_REPO_URL>` |
 | Live demo (chat frontend) | `<DEMO_LINK>` |
-| Backend API (Hugging Face Space) | `<BACKEND_SPACE_URL>` |
-| Slide deck | `<SLIDES_LINK>` |
-| Demo video (local-language voice-over) | `<VIDEO_LINK>` |
 | SRS document | `<SRS_LINK>` |
 
 ## What it does
