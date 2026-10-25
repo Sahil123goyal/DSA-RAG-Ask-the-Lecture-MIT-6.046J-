@@ -1,0 +1,26 @@
+[
+  {
+    "file": "transcripts/adv_dp.en.vtt",
+    "type": "video transcript",
+    "lecture": "Advanced Dynamic Programming",
+    "url": "https://www.youtube.com/watch?v=Tw1k46ywN6E"
+  },
+  {
+    "file": "pdfs/Lecture_notes.pdf",
+    "type": "lecture notes",
+    "lecture": "Advanced Dynamic Programming",
+    "url": "https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/resources/lecture-10-notes/"
+  },
+  {
+    "file": "pdfs/Recitation.pdf",
+    "type": "recitation notes",
+    "lecture": "Advanced Dynamic Programming",
+    "url": "https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/resources/recitation-5-notes/"
+  },
+  {
+    "file": "pdfs/Introduction.pdf",
+    "type": "introduction notes",
+    "lecture": "Advanced Dynamic Programming",
+    "url": "https://web.mit.edu/15.053/www/AMP-Chapter-11.pdf"
+  }
+]

@@ -1,0 +1,5 @@
+gradio
+groq
+sentence-transformers
+faiss-cpu
+langgraph
