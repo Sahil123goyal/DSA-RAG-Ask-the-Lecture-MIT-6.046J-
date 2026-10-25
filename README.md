@@ -10,8 +10,8 @@ Built for **Track 1: RAG** of the Immersive Learning challenge.
 
 | Resource | Link |
 |---|---|
-| Live demo (chat frontend) |[ `<DEMO_LINK>`](https://huggingface.co/spaces/codersahil/dsa-rag-mit/tree/main) |
-| SRS document |[ `<SRS_LINK>`](https://drive.google.com/file/d/1fh1kMBrzNn33gFx9UV7lpR29hEoDfSFS/view?usp=sharing) |
+| Live demo (chat frontend) |[ `<DEMO_LINK>`](https://huggingface.co/spaces/codersahil/dsa-rag-mit) |
+| SRS document |[ `<SRS_LINK>`](https://drive.google.com/file/d/1fh1kMBrzNn33gFx9UV7lpR29hEoDfSFS/view?usp=drive_link) |
 
 ## What it does
 
